@@ -1,5 +1,0 @@
-Flask
-langchain
-google-generativeai
-mysql-connector-python
-python-dotenv
